@@ -49,7 +49,7 @@
 
 .card img {
   width: 100%;
-  height: 250px;
+  height: 260px;
   object-fit: cover; /* Faz a foto preencher o espaço sem distorcer */
 }
 
